@@ -1492,6 +1492,12 @@
         "bookName": "The Cargo Book",
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
+     },
+     {
+        "id": "248",
+        "bookName": "Python Tutorial release 3.7.0",
+        "authorName": "Guido van Rossum and the python development team",
+        "bookLink": "https://bugs.python.org/file47781/Tutorial_EDIT.pdf"
      }
 
 
